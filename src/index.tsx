@@ -34,7 +34,7 @@ const getWebSocketUrl = (): string => {
 
 
 
-const DesignImageOverlay: React.FC = () => {
+export const PerfectUiOverlay: React.FC = () => {
 
     const [imageUri, setImageUri] = useState<string | null>(null);
     const [opacity, setOpacity] = useState(1);
@@ -104,5 +104,3 @@ const DesignImageOverlay: React.FC = () => {
         </View>
     );
 };
-
-export default DesignImageOverlay; 
