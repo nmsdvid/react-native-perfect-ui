@@ -1,14 +1,25 @@
 {
   "name": "react-native-perfect-ui",
-  "version": "0.0.3",
-  "description": "",
+  "version": "0.0.4",
+  "description": "A React Native tool for creating perfect UI components",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "nmsdvid",
+  "keywords": ["react-native", "ui", "perfect", "design", "overlay", "react-native-perfect-ui"],
+  "author": {
+    "name": "nmsdvid",
+    "url": "https://github.com/nmsdvid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmsdvid/react-native-perfect-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nmsdvid/react-native-perfect-ui/issues"
+  },
+  "homepage": "https://github.com/nmsdvid/react-native-perfect-ui",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=18.0.0",
