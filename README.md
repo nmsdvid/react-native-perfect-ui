@@ -2,6 +2,8 @@
 
 A React Native tool for creating perfect UI components.
 
+![React Native Perfect UI Demo](https://i.ibb.co/jkq6rj4f/react-native-perfect-ui.gif)
+
 ### Usage
 
 1. Install the React Native component
