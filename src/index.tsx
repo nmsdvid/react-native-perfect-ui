@@ -16,8 +16,8 @@ interface WebSocketMessage {
 }
 
 const WS_CONFIG = {
-    IOS_URL: 'ws://127.0.0.1:5000',
-    ANDROID_URL: 'ws://10.0.2.2:5000',
+    IOS_URL: 'ws://127.0.0.1:9321',
+    ANDROID_URL: 'ws://10.0.2.2:9321',
     RECONNECT_ATTEMPTS: 20,
     MAX_RECONNECT_DELAY: 10000,
     BACKOFF_MULTIPLIER: 1.5,
